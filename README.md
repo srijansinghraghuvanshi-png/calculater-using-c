@@ -35,6 +35,17 @@ gcc calculater_1.c -o calculater
 ./calculater
 ```
 
+## 💡 Example Menu
+
+```text
+===== CALCULATOR =====
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+```
+
 ## 🎯 What I Practiced
 
 - C control flow
